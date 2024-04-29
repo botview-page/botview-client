@@ -1,3 +1,5 @@
+  #BotView Common Client
+  
   ./common-client -setConfig
   ./common-client -loadClient=<"CLIENT ID"/LIST>
   ./common-client -printConfiguration
